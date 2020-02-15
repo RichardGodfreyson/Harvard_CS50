@@ -1,4 +1,5 @@
 # Lecture 0
+
 ## Git
 
 - To create a git repository
@@ -107,6 +108,7 @@ nothing to commit, working tree clean
 ## CSS
 
 - Styles the HTML
+
 ```html
 <h1 style="color:blue;text-align:center;"> Welcome to my Website</h1>
 ```
